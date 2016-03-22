@@ -1,0 +1,13 @@
+layout_spectrum: 0.7709637
+color:
+  saturation: 0.2123084
+  lightness: 0.9747567
+  brandStrength: 0.723131
+  brandColors:
+    - '#888888'
+    - '#D8DFE9'
+    - '#212020'
+    - '#4B3831'
+  rhythmicContrast: 0.3085475
+typography_spectrum: 0.5844576
+name: My Travels
