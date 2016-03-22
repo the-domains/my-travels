@@ -4,8 +4,15 @@
         <description><![CDATA[My Travels]]></description>
         <link>https://thegrid.ai/my-travels/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 23:05:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2016 23:13:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/my-travels/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Meet & Greet]]></title>
+            <description><![CDATA[<article><h1>Meet & Greet</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f4b0df0-b1ae-472f-9656-5296bfbb2802.png"></article>]]></description>
+            <link>https://thegrid.ai/my-travels/meet-and-greet/index.html</link>
+            <guid isPermaLink="false">a3a526bd-00ae-45d1-a1c9-1c96bfe80a5b</guid>
+            <pubDate>Tue, 22 Mar 2016 23:12:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Me & Beetle Juice]]></title>
             <description><![CDATA[<article><h1>Me & Beetle Juice</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e424b8d6-4fca-4624-b0a1-32fe6fe27d46.png"></article>]]></description>
