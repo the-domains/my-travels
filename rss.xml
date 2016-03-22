@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[My Travels]]></title>
         <description><![CDATA[My Travels]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/my-travels/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 23:01:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Mar 2016 23:05:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/my-travels/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Me & Beetle Juice]]></title>
+            <description><![CDATA[<article><h1>Me & Beetle Juice</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e424b8d6-4fca-4624-b0a1-32fe6fe27d46.png"></article>]]></description>
+            <link>https://thegrid.ai/my-travels/me-and-beetle-juice/index.html</link>
+            <guid isPermaLink="false">fd6cbe32-4f9c-4751-87f4-a7050da5015c</guid>
+            <pubDate>Tue, 22 Mar 2016 23:05:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Miami Beach]]></title>
             <description><![CDATA[<article><h1>Miami Beach</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/553346f4-65cb-4c1a-81e8-d35214101aaf.png"></article>]]></description>
-            <link>undefinedmiami-beach/index.html</link>
+            <link>https://thegrid.ai/my-travels/miami-beach/index.html</link>
             <guid isPermaLink="false">52818f13-4e8f-42c2-a481-e06e7d23748c</guid>
             <pubDate>Tue, 22 Mar 2016 23:01:52 GMT</pubDate>
         </item>
