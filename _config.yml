@@ -1,13 +1,26 @@
-layout_spectrum: 0.7709637
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.5844576
 color:
   saturation: 0.2123084
-  lightness: 0.9747567
   brandStrength: 0.723131
+  lightness: 0.9747567
   brandColors:
-    - '#888888'
-    - '#D8DFE9'
-    - '#212020'
-    - '#4B3831'
+    - '#20284B'
+    - '#FBE044'
+    - '#CEAD90'
+    - '#80E166'
+    - '#D71E27'
   rhythmicContrast: 0.3085475
-typography_spectrum: 0.5844576
+layout_spectrum: 0.7709637
 name: My Travels
