@@ -4,8 +4,15 @@
         <description><![CDATA[My Travels]]></description>
         <link>https://thegrid.ai/my-travels/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2016 00:23:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/my-travels/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Giraffas]]></title>
+            <description><![CDATA[<article><h1>Giraffas</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/99499c63-571f-414b-82da-39b48b04a7cd.png"></article>]]></description>
+            <link>https://thegrid.ai/my-travels/giraffas/index.html</link>
+            <guid isPermaLink="false">b41de65f-6f74-4108-a4eb-1a8c0a3d222a</guid>
+            <pubDate>Thu, 24 Mar 2016 00:22:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[On the beach ]]></title>
             <description><![CDATA[<article><h1>On the beach </h1><p>On the beach</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/044b0b72-91ec-46e9-a0db-0372ab1382a8.png"></article>]]></description>
